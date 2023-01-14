@@ -1,1 +1,1 @@
-# Collection ff Cascading Style Sheets
+# Collection of Cascading Style Sheets
